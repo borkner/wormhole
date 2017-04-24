@@ -1,4 +1,5 @@
 # wormhole
 new database
 
-bessere db
+
+Diese neue Form einer Datenbank ist total neu
